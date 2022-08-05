@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mykola-kolomoyets
 - 👀 I’m interested in web development and design
-- 🌱 I’m currently learning React.js and web-design
-- 💞️ I’m looking to collaborate on cool and beautiful web sites
+- 🌱 I’m currently working with React/Typescript/Redux-toolkit(incl.RTKQuery) tech stack
+- 🌱 Learning Next.js and React Native
+- 💞️ I’m looking to collaborate on cool projects and teams to develop ourself more effeciently
 
 <!---
 mykola-kolomoyets/mykola-kolomoyets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
