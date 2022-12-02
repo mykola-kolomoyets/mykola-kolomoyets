@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mykola-kolomoyets
-- 👀 I’m interested in web development and design
-- 🌱 I’m currently working with React/Typescript/Redux-toolkit(incl.RTKQuery) tech stack
-- 🌱 Learning Next.js and React Native
+- 👀 I’m React Web Developer with more than 2.5 years of experience
+- 🌱 I’m working with React/Typescript/NextJS/Testing/React-Native etc. tech stack
 - 💞️ I’m looking to collaborate on cool projects and teams to develop ourself more effeciently
 
 <!---
