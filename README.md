@@ -56,6 +56,7 @@ I am self-learned React Web Developer with more that 1.5 years of commercial exp
 | React - The Complete Guide (incl Hooks, React Router, Redux)    | 06/2021 - 04/2022 |
 | React Native - The practical Guide 2022                         | 04/2022 - 07/2022 |
 | CSS for JavaScript Developers                                   | 11/2022 - 01/2023 |
+| Joy of React (2023 Edition)                                     | 12/2022 - 02/2023 |
 | Advanced React (from Meta)                                      | 12/2022 - xx/2023 |
 
 ---
