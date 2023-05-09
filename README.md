@@ -59,7 +59,8 @@ Self-learned React Web Developer with more that 2 years of commercial experience
 | React Native - The practical Guide 2022                         | 04/2022 - 07/2022 |
 | CSS for JavaScript Developers                                   | 11/2022 - 01/2023 |
 | Joy of React (2023 Edition)                                     | 01/2023 - 03/2023 |
-| Advanced React (from Meta)                                      | 12/2022 - xx/2023 |
+| Advanced React (from Meta)                                      | 12/2022 - 03/2023 |
+| Type Transformations - TotalTypescript                          | 04/2023 - 05/2023 |
 
 ---
 
