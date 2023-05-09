@@ -4,8 +4,9 @@
 ---
 
 ### :man_technologist: Who am I?
+I am Middle Front-End Enginener at [Phenomenon.Studio](https://phenomenonstudio.com/) <img width="16" height="16" src="https://img.shgstatic.com/clutchco-static/image/scale/50x50/s3fs-public/logos/145da1ba38006f93b43347f748f3cb54.svg" />
 
-I am self-learned React Web Developer with more that 1.5 years of commercial experience with creating blockchain platforms (NFT Marketplaces, Apps for vouchers in crypto), FinTech solutuons (Universal/AlphaBank Group solutions), retail solutions (X5 Group) and Goverment projects (Soil management)
+Self-learned React Web Developer with more that 2 years of commercial experience with creating blockchain platforms (NFT Marketplaces, Apps for vouchers in crypto), FinTech solutuons (Universal/AlphaBank Group solutions), retail solutions and Goverment projects (Soil management)
 
 - :telescope: Self-developing every day on real projects
 
