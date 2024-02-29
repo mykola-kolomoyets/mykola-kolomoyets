@@ -6,13 +6,14 @@
 ### :man_technologist: Who am I?
 I am Front-End Enginener at [Phenomenon.Studio](https://phenomenonstudio.com/) <img width="16" height="16" src="https://img.shgstatic.com/clutchco-static/image/scale/50x50/s3fs-public/logos/145da1ba38006f93b43347f748f3cb54.svg" />
 
-Self-learned React Web Developer with more that 3 years of commercial experience with creating blockchain platforms (NFT Marketplaces, Apps for vouchers in crypto), FinTech solutuons (Universal/AlphaBank Group solutions), retail solutions and Goverment projects (Soil management)
+Young, self-learned web-developer with more than 4 years of commercial experience with creating and implementing Fin-tech, blockchain platforms and 3D-applications from scratch. Able to effectively self-manage during independent projects, as well as collaborate in  team setting. 
+Experienced with latest cutting edge development tools and procedures
 
 - :telescope: Self-developing every day on real projects
 
 - :seedling: Doing my best to create the way to teach others to write almost perfect code
 
-- :zap: Picking my socks up with blockchain web3 development
+- :zap: Picking my socks up with blockchain development and 3D in Web
 
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-m_kolomoyets-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_kolomoyets) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mykola.kolomoiets@gmail.com)
 
